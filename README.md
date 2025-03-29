@@ -14,8 +14,6 @@ The dataset includes the following attributes relevant to banking:
 - **AccountBalance**
 - **Transaction Time**
 
-https://github.com/Iusedatadaily/Data-Analysis-Dashboard/blob/main/BANK%20TRANSACTION%20DASHBOARD.pbix
-
 [Dataset Source - Kaggle](https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection)
 
 ## Tools Used
@@ -41,5 +39,12 @@ The following steps were performed during data analysis:
 - **Created a month column** for monthly trend analysis.
 - **Added headers** to enable structured and comprehensive analysis.
 
+Dashboard image
+
+https://github.com/Iusedatadaily/Data-Analysis-Dashboard/blob/main/IMG_4316.jpg
+
 This analysis provides actionable insights for financial security, customer segmentation, and transaction monitoring.
 
+Dashboard
+
+https://github.com/Iusedatadaily/Data-Analysis-Dashboard/blob/main/BANK%20TRANSACTION%20DASHBOARD.pbix
